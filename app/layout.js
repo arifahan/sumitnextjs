@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
         <nav>
           <ul className="flex gap-6 font-bold font text-3xl pb-6 justify-center">
             <li>
-              <Link href="/">Home 1.57.00</Link>
+              <Link href="/">Home</Link>
             </li>
             <li>
               <Link href="/about">About</Link>
